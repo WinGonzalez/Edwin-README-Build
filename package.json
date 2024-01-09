@@ -1,0 +1,23 @@
+{
+  "name": "edwin-readme-generator",
+  "version": "1.0.0",
+  "description": "README Generator For Challenge 9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/WinGonzalez/Edwin-Readme-Generator"
+  },
+  "author": "Edwin",
+  "license": "ISC",
+  "bugs": {
+"url":"https://github.com/WinGonzalez/Edwin-Readme-Generator/issues" 
+},
+"homepage": "https://github.com/WinGonzalez/Edwin-Readme-Generator/blob/main/README.md",
+"dependencies": {
+  "inquirer": "9.2.12"
+}
+}
+
