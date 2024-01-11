@@ -3,14 +3,13 @@ const inquirer = require('inquirer');
 const generator = require('./Edwin-Readme-Generator/utils/generateMarkdown.js')
 const fs = require('fs');
 const path = require('path');
-
 const exportsDir = path.join(__dirname, 'exports');
+
+
 if (!fs.existsSync(exportsDir)) {
     fs.mkdirSync(exportsDir, { recursive: true });
 }
-//import('inquirer').then(inquirer => {
-// Your code using inquirer goes here
-//});
+
 const questions = [{
     type: 'input',
     message: 'Enter your project title:',

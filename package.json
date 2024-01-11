@@ -61,7 +61,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Edwin Gonzalez",
+  "license": "ISC",
+  "Homepage": "https://github.com/WinGonzalez/Edwin-README-Build",
+  "Bugs": {
+    "url": "https://github.com/WinGonzalez/Edwin-README-Build/issues"
+  }
 }
