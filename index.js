@@ -1,6 +1,6 @@
 //Require initiation
 const inquirer = require('inquirer');
-const generator = require('./Edwin-Readme-Generator/utils/generateMarkdown.js')
+const generator = require('./utils/generateMarkdown.js')
 const fs = require('fs');
 const path = require('path');
 const exportsDir = path.join(__dirname, 'exports');
