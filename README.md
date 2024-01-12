@@ -11,5 +11,5 @@ README Generator for challenge 9
 The script offers a simple solution for programmers to generate a README markdown file swiftly and effortlessly. It eliminates the necessity for programmers to understand markdown syntax, streamlining the process of creating a README file.
 
 ## Walkthrough Video
-[Video-Link]https://drive.google.com/file/d/1tQSz98fZ3dmutwOkeUkJRL_wom_SgVxs/view
+[Video-Link] https://drive.google.com/file/d/1tQSz98fZ3dmutwOkeUkJRL_wom_SgVxs/view
 
