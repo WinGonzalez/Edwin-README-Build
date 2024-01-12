@@ -3,8 +3,11 @@ README Generator for challenge 9
 
 ## Resources
 [Starter Code](https://github.com/coding-boot-camp/potential-enigma)
+
 [Professional Readme Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
 [Udemy]https://www.udemy.com/topic/nodejs/ 
+
 [Youtube]https://www.youtube.com/results?search_query=fundamentals+of+nodejs
 
 ## Description
